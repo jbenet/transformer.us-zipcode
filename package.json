@@ -1,0 +1,28 @@
+{
+  "name": "transformer.us-zipcode",
+  "version": "0.0.1",
+  "description": "transformer type: A zipcode in the U.S.A.",
+  "main": "index.js",
+  "transformer": "transformer.jsonld",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "transformer",
+    "transformer-type"
+  ],
+  "dependencies": {
+    "dat-transformer": "~0.1.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbenet/transformer.us-zipcode.git"
+  },
+  "author": "Juan Benet <juan@benet.ai> (http://juan.benet.ai/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbenet/transformer.us-zipcode/issues"
+  },
+  "homepage": "https://github.com/jbenet/transformer.us-zipcode"
+}

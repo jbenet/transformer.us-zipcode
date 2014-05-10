@@ -1,0 +1,7 @@
+{
+ "@context": "http://transformer.io/context/transformer.jsonld",
+ "type": "type",
+ "id": "us-zipcode",
+ "description": "A zipcode in the U.S.A.",
+ "schema": "string"
+}
