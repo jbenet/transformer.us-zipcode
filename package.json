@@ -1,6 +1,6 @@
 {
   "name": "transformer.us-zipcode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "transformer type: A zipcode in the U.S.A.",
   "main": "index.js",
   "transformer": "transformer.jsonld",
@@ -12,7 +12,8 @@
     "transformer-type"
   ],
   "dependencies": {
-    "dat-transformer": "~0.1.5"
+    "transformer-test": "^0.1.0",
+    "transformer-type": "^0.1.0"
   },
   "devDependencies": {},
   "repository": {
